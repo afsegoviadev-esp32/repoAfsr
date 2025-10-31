@@ -70,5 +70,8 @@ int main(void)
     }while(contador < 20);
     printf("Se finaliza el ciclo do while \n");
 
+    printf("Esta es una nueva linea \n");
+
+    printf("Nueva modificacion \n");
 
 }
